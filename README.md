@@ -8,6 +8,6 @@ This project analyzes the visits of patients in a hospital throughout 2025.
 4. Are there meaningful differences in the cost per stay between insured patients vs. non-insured patients (who pay out-of-pocket)?
 
 # Tech Stack Used
-MySQL (JOINs, CASE statements)
-Python (pandas)
-Excel
+1. MySQL (JOINs, CASE statements)
+2. Python (pandas)
+3. Microsoft Excel
